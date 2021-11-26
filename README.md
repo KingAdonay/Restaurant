@@ -1,5 +1,4 @@
 # Restaurant
 
-# Run npm install to install all the packages.
+Project in Master branch
 
-# Run npm start to run the application.
